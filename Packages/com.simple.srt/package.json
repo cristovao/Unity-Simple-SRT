@@ -1,0 +1,19 @@
+{
+  "name": "com.simple.srt",
+  "displayName": "Unity Simple SRT",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "license": "MIT",
+  "description": "A super simple SRT subtitle parser",
+  "keywords": [
+    "subtitle"
+  ],
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Example",
+      "description": "Ready-to-use basic assets and an example scene",
+      "path": "Samples~/Example"
+    }
+  ]
+}
